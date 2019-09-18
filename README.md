@@ -16,3 +16,5 @@ Solving the Codility challenges
 - FrogRiverOne: [task](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/), [solution](https://github.com/turovnd/codility-challenge/blob/master/solutions/FrogRiverOne.js)
 - MaxCounters: [task](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/), [solution](https://github.com/turovnd/codility-challenge/blob/master/solutions/MaxCounters.js)
 - MissingInteger: [task](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/), [solution](https://github.com/turovnd/codility-challenge/blob/master/solutions/MissingInteger.js)
+
+- PassingCars: [task](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/), [solution](https://github.com/turovnd/codility-challenge/blob/master/solutions/PassingCars.js)
