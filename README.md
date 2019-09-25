@@ -20,3 +20,4 @@ Solving the Codility challenges
 - PassingCars: [task](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/), [solution](https://github.com/turovnd/codility-challenge/blob/master/solutions/PassingCars.js)
 - GenomicRangeQuery: [task](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/), [solution](https://github.com/turovnd/codility-challenge/blob/master/solutions/GenomicRangeQuery.js)
 - MinAvgTwoSlice: [task](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/), [solution](https://github.com/turovnd/codility-challenge/blob/master/solutions/MinAvgTwoSlice.js)
+- CountDiv: [task](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/), [solution](https://github.com/turovnd/codility-challenge/blob/master/solutions/CountDiv.js)
